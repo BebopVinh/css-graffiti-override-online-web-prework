@@ -1,2 +1,4 @@
 /* write your override styles here */
-div[class="wall"]
+div[class="wall"] > div {
+  display
+}
